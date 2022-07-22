@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Fakultet\II godina\III semestar\Baze podataka 1\Lab1 semestralni - SI WIKI\Vezbanje\main.cpp(242,6): warning C4101: 'idKom': unreferenced local variable
+D:\Fakultet\II godina\III semestar\Baze podataka 1\Lab1 semestralni - SI WIKI\Vezbanje\main.cpp(242,13): warning C4101: 'idFil': unreferenced local variable
+  Vezbanje.vcxproj -> D:\Fakultet\II godina\III semestar\Baze podataka 1\Lab1 semestralni - SI WIKI\Debug\Vezbanje.exe

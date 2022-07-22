@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Fakultet\II godina\III semestar\Baze podataka 1\Lab1 semestralni - SI WIKI\Lab1 - Januar\main.cpp(155,53): warning C4244: 'argument': conversion from 'sqlite3_int64' to 'int', possible loss of data
+  Lab1 - Januar.vcxproj -> D:\Fakultet\II godina\III semestar\Baze podataka 1\Lab1 semestralni - SI WIKI\Debug\Lab1 - Januar.exe

@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Fakultet\II godina\III semestar\Baze podataka 1\Lab1 semestralni - SI WIKI\Lab1 semestralni - SI WIKI\main.cpp(306,42): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+D:\Fakultet\II godina\III semestar\Baze podataka 1\Lab1 semestralni - SI WIKI\Lab1 semestralni - SI WIKI\main.cpp(339,56): warning C4244: 'argument': conversion from 'sqlite3_int64' to 'int', possible loss of data
+D:\Fakultet\II godina\III semestar\Baze podataka 1\Lab1 semestralni - SI WIKI\Lab1 semestralni - SI WIKI\main.cpp(365,42): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+D:\Fakultet\II godina\III semestar\Baze podataka 1\Lab1 semestralni - SI WIKI\Lab1 semestralni - SI WIKI\main.cpp(397,42): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+D:\Fakultet\II godina\III semestar\Baze podataka 1\Lab1 semestralni - SI WIKI\Lab1 semestralni - SI WIKI\main.cpp(390,29): warning C4101: 'greska': unreferenced local variable
+LINK : warning LNK4067: ambiguous entry point; selected 'mainCRTStartup'
+  Lab1 semestralni - SI WIKI.vcxproj -> D:\Fakultet\II godina\III semestar\Baze podataka 1\Lab1 semestralni - SI WIKI\Debug\Lab1 semestralni - SI WIKI.exe
